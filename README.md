@@ -35,6 +35,7 @@ This project involves researching and presenting an R package that was not cover
 The assignment highlights my ability to explore new R tools, communicate new concepts effectively, and provide hands-on examples of the concepts.
 <br></br>
 ### Data Mining
+https://github.com/EmilyForeacre/Portfolio/tree/main/Data%20Mining
 
 This project involves re-analyzing a dataset from a prerequisite course using R. I built a final model and generated additional insights or visualizations, translating previous analyses done in Python into R. The project demonstrates reproducible data analysis, model-building, and effective use of R for statistical modeling and visualization.
 
