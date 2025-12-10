@@ -1,5 +1,6 @@
 # AI 
-https://github.com/EmilyForeacre/AI/tree/main/HW1
+ 
+https://github.com/EmilyForeacre/Portfolio/blob/main/AI/AI_HW1%20(8).ipynb
 
 This project involves using Python to implement a variation of the classic water jug puzzle. I created a WaterJugPuzzle class that defines the state space, legal moves, and rules for solving the puzzle. The goal is to reach a specified target amount of water by applying a sequence of legal operations on two jugs of different capacities.
 
