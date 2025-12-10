@@ -33,6 +33,10 @@ https://github.com/EmilyForeacre/Portfolio/tree/main/R%20Package%20Presentation
 This project involves researching and presenting an R package that was not covered in class. I explored the package’s purpose, demonstrated its key functions, and applied it to a real dataset to illustrate practical use cases. The project includes a slide presentation explaining the package’s features and an R script with working examples.
 
 The assignment highlights my ability to explore new R tools, communicate new concepts effectively, and provide hands-on examples of the concepts.
+<br></br>
+### Data Mining
+
+This project involves re-analyzing a dataset from a prerequisite course using R. I built a final model and generated additional insights or visualizations, translating previous analyses done in Python into R. The project demonstrates reproducible data analysis, model-building, and effective use of R for statistical modeling and visualization.
 
 <br></br>
 # Matlab
@@ -40,3 +44,10 @@ The assignment highlights my ability to explore new R tools, communicate new con
 https://github.com/EmilyForeacre/Portfolio/tree/main/Matlab%20Project
 
 This project involves using MATLAB to solve a series of calculus problems based on concepts from Calculus III, including integrals and bounds determined from a personal dataset. I implemented MATLAB commands to compute integrals, generate figures, and document all intermediate steps and calculations.
+
+<br></br>
+# Database Management
+### Doctor's Portal Web application
+https://github.com/EmilyForeacre/DBMS_Final_Project
+
+This project involves creating a 3-tier client/server web application using a web browser, Node.js server, and MySQL database. I implemented a doctors portal where the server handles requests from the browser, interacts with the database to execute queries, and returns results in HTML format. The project highlights practical skills in Node.js, MySQL, and building interactive web applications for real-world scenarios.
