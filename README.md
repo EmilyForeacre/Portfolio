@@ -29,6 +29,7 @@ In this assignment, I implemented input validation to ensure unique SKUs, displa
 # R script
 ### R Package Presentation
 https://github.com/EmilyForeacre/Portfolio/tree/main/R%20Package%20Presentation
+
 This project involves researching and presenting an R package that was not covered in class. I explored the package’s purpose, demonstrated its key functions, and applied it to a real dataset to illustrate practical use cases. The project includes a slide presentation explaining the package’s features and an R script with working examples.
 
 The assignment highlights my ability to explore new R tools, communicate new concepts effectively, and provide hands-on examples of the concepts.
@@ -37,4 +38,5 @@ The assignment highlights my ability to explore new R tools, communicate new con
 # Matlab
 ### Matlab Calc III Project
 https://github.com/EmilyForeacre/Portfolio/tree/main/Matlab%20Project
+
 This project involves using MATLAB to solve a series of calculus problems based on concepts from Calculus III, including integrals and bounds determined from a personal dataset. I implemented MATLAB commands to compute integrals, generate figures, and document all intermediate steps and calculations.
