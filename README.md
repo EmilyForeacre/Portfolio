@@ -38,6 +38,13 @@ The assignment highlights my ability to explore new R tools, communicate new con
 https://github.com/EmilyForeacre/Portfolio/tree/main/Data%20Mining
 
 This project involves re-analyzing a dataset from a prerequisite course using R. I built a final model and generated additional insights or visualizations, translating previous analyses done in Python into R. The project demonstrates reproducible data analysis, model-building, and effective use of R for statistical modeling and visualization.
+<br></br>
+### Descriptive Statistics
+https://github.com/EmilyForeacre/Portfolio/tree/main/Descriptive%20Statistics%20in%20R
+
+This project involves using R to analyze student evaluations of professors. I performed descriptive statistics and created visualizations to understand factors that influence course evaluation scores, including professor age, gender, rank, language, etc.
+
+The analysis includes histograms, scatterplots, boxplots, bar plots, correlation coefficients, and two-way tables to explore relationships between evaluation scores and professor attributes. The project highlights the effective use of R for both statistical exploration and data visualization.
 
 <br></br>
 # Matlab
